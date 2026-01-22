@@ -59,6 +59,6 @@ Python
 
 ## Repository contents  
 - `Customer_segmentation.ipynb`: main analysis notebook (full workflow and code)  
-- `Heerink_Fiona_CAM_C101_W6_Mini-project.pdf`: report with results and discussion  
+- `Customer_segmentation.pdf`: report with results and discussion  
 
  
